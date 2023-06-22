@@ -57,7 +57,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -yunzimo
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
